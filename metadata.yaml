@@ -1,0 +1,27 @@
+_repo: Trees-Worth-Knowing_37717
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37717-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rogers, Julia Ellen
+    birthdate: 1866
+    gutenberg_agent_id: '35933'
+    url: http://www.gutenberg.org/2009/agents/35933
+description: Includes the life of the trees, nut trees, water-loving trees, trees
+  with showy flowers and fruits, wild relatives of orchard trees, pod-bearing trees,
+  deciduous trees with winged seeds, cone-bearing evergreens.
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trees'
+- !lcc 'QK'
+title: Trees Worth Knowing
+url: http://www.gutenberg.org/ebooks/37717
